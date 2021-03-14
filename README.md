@@ -1,2 +1,2 @@
 # Hello World
-[几何战争](https://cashingbot.github.io/web-desktop/)
+[几何战争](https://cashinbot.github.io/web-desktop/)
